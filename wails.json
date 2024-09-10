@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "my-code-editor",
+  "outputfilename": "my-code-editor",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "lasse",
+    "email": "77295879+lassejlv@users.noreply.github.com"
+  }
+}
